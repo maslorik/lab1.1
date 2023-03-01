@@ -15,5 +15,14 @@ int main()
     int c = 1;
     int d = 0;
     int j = 0;
+    if (x > y)
+    {
+        while (i < x)
+        {
+            c = c * i;
+            i++;
 
+        }
+        printf("Результат=%i", c);
+    }
 }
