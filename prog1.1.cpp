@@ -11,4 +11,9 @@ int main()
     scanf_s("%d", &x);
     printf("Введите Y:");
     scanf_s("%d", &y);
+    int i = 1;
+    int c = 1;
+    int d = 0;
+    int j = 0;
+
 }
