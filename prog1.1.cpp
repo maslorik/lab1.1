@@ -25,4 +25,15 @@ int main()
         }
         printf("Результат=%i", c);
     }
+    else
+    {
+        while (d < y)
+        {
+            j = j + d;
+            d++;
+        }
+        printf("Результат=%i", j);
+
+    }
+    getch();
 }
