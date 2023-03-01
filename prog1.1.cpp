@@ -9,4 +9,6 @@ int main()
     int x, y;
     printf("Введите Х:");
     scanf_s("%d", &x);
+    printf("Введите Y:");
+    scanf_s("%d", &y);
 }
