@@ -3,4 +3,7 @@
 #include "conio.h"
 
 int main()
-	
+{
+    int getch();
+    setlocale(LC_ALL, "Russian");
+}
