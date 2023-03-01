@@ -6,4 +6,7 @@ int main()
 {
     int getch();
     setlocale(LC_ALL, "Russian");
+    int x, y;
+    printf("Введите Х:");
+    scanf_s("%d", &x);
 }
